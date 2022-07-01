@@ -1,7 +1,7 @@
 import { useState } from "react"
 import { SiAddthis } from "react-icons/si";
 import { v4 as uuidv4} from 'uuid';
-import estilo from '../css/Form.css'
+import '../css/Form.css'
 
 function Form(props){
 

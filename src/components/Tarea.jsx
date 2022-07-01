@@ -1,6 +1,5 @@
-import { createRenderer } from "react-dom/test-utils"
 import { AiOutlineCloseCircle } from "react-icons/ai";
-import estilo from '../css/Tarea.css'
+import '../css/Tarea.css'
 
 function Tarea( {id, texto, completada, completar, eliminar}){
   // props: 

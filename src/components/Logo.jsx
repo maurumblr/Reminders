@@ -1,5 +1,5 @@
 import logo from '../images/logo-remind.png'
-import estilo from '../css/Logo.css'
+import '../css/Logo.css'
 
 function Logo(){
   return(
