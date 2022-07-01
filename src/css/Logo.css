@@ -1,0 +1,12 @@
+.contenedor-logo{
+    width: 100%;
+    min-width: 236px;
+    display: flex;
+    justify-content: center;
+  }
+  .logo{
+    max-width: 600px;
+    min-width: 400px;
+    width: 80%;  
+    margin: 30px 0;
+  }
