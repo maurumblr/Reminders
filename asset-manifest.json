@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/reminders/static/css/main.e3abcf3d.css",
+    "main.js": "/reminders/static/js/main.aebea10f.js",
+    "static/media/logo.svg": "/reminders/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/reminders/index.html",
+    "main.e3abcf3d.css.map": "/reminders/static/css/main.e3abcf3d.css.map",
+    "main.aebea10f.js.map": "/reminders/static/js/main.aebea10f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3abcf3d.css",
+    "static/js/main.aebea10f.js"
+  ]
+}
