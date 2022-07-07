@@ -13,7 +13,7 @@ function Tarea( {id, texto, completada, completar, eliminar}){
       <div 
         className="tarea-texto"
         onClick={() => completar(id)}>
-        {texto}
+        <p>{texto}</p>
       </div>
       <div className="tarea-icono"
         onClick={() => eliminar(id)}>

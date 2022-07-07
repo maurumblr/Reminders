@@ -46,6 +46,7 @@ function Form(props){
         onChange={cambioInput}
         value = {inputTarea}
         className='input-tarea'
+        placeholder="Add new task..."
         />
       <button className="btn-agregarTask" type="submit">
         <SiAddthis />

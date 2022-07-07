@@ -1,7 +1,8 @@
 .tarea-contenedor{
+  font-size: 1.1rem;
   min-height: 50px;
   max-width: 600px;    
-  width: 90%;  
+  width: 93%;  
   border: 3px solid #ffffff;
   border-radius: 10px;
   background-color: #7d6796;    
@@ -10,23 +11,35 @@
   align-items: center;  
   cursor: pointer;
   margin: 5px 0;
+  transition: 0.2s;  
 }
+
+.tarea-contenedor:hover{
+  width: 96%;
+  min-height: 54px;  
+}
+
 .tarea-contenedor:nth-child(3n + 1) {
-  background-color: #c6a2d6;
+  background-color: #53626eb4;
 }
 .tarea-contenedor:nth-child(3n +2) {
-  background-color: #8a54a0;
+  background-color: #53626ea4;
 }
 .tarea-contenedor:nth-child(3n +3) {
-  background-color: #6a427a;
+  background-color: #53626ea4;
+}
+
+.tarea-texto p{
+  overflow: hidden;
+  word-wrap: break-word;
 }
 
 .tarea-texto{
   padding: 5px 10px;
-  width: 90%;
+  width: 90%;  
   display: flex;
   justify-content: left;
-  align-items: center;
+  align-items: center;  
 }
 .tarea-icono{
   width: 10%;
@@ -40,6 +53,7 @@
   opacity: 0.2;
   text-decoration: line-through;
   color: black;
+  border: 1px solid #ffffff;
 }
 
 

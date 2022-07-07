@@ -78,8 +78,8 @@ function App() {
 
   return (
     <div className="App">
-      <h1 className='title'>REMINDERS</h1>
-      <Logo />
+      <h1><Logo /></h1>
+      
       <Form onSubmit={agregarTarea} />
       {
         listaTareas.map((tarea) => //tarea representa cada uno de los objectos del array listaTareas. La función map() recorre todo el array y por cada tarea (objeto), crea un componente Tarea.
