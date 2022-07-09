@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Reminders/static/css/main.355410c6.css",
-    "main.js": "/Reminders/static/js/main.70b5be7e.js",
-    "static/media/logo-remind.png": "/Reminders/static/media/logo-remind.6926e9fba6e25cfd594e.png",
+    "main.css": "/Reminders/static/css/main.1694ccba.css",
+    "main.js": "/Reminders/static/js/main.e3e093f6.js",
+    "static/media/logo-remind.png": "/Reminders/static/media/logo-remind.a1085c45b0cb8f75de6f.png",
     "static/media/logo.svg": "/Reminders/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Reminders/index.html",
-    "main.355410c6.css.map": "/Reminders/static/css/main.355410c6.css.map",
-    "main.70b5be7e.js.map": "/Reminders/static/js/main.70b5be7e.js.map"
+    "main.1694ccba.css.map": "/Reminders/static/css/main.1694ccba.css.map",
+    "main.e3e093f6.js.map": "/Reminders/static/js/main.e3e093f6.js.map"
   },
   "entrypoints": [
-    "static/css/main.355410c6.css",
-    "static/js/main.70b5be7e.js"
+    "static/css/main.1694ccba.css",
+    "static/js/main.e3e093f6.js"
   ]
 }
